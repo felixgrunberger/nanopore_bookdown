@@ -1,0 +1,2 @@
+# Date
+This document was knitted on `r Sys.Date()`

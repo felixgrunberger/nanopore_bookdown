@@ -1,0 +1,25 @@
+--- 
+title: "Real-time analysis of microbiological samples with Nanopore sequencing"
+author: "[Felix Gruenberger](http://www.uni-regensburg.de/biologie-vorklinische-medizin/mikrobiologie/team/index.html)"
+date: "Last updated: `r format(Sys.time(), '%B %d, %Y')`"
+cover-image: '/Users/f/Documents/R/nanopore/cover.jpg'
+site: bookdown::bookdown_site
+output: 
+  bookdown::gitbook:
+    config:
+      download:
+      - book.pdf
+      - book.epub
+documentclass: book
+bibliography: /Users/f/Documents/Latex/library.bib
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/nanopore_bookdown
+description: ""
+
+
+---
+
+![](/Users/f/Documents/R/nanopore/cover.jpg)
+
+# About this book {- #about}
