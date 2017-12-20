@@ -7,7 +7,7 @@ bookdown::gitbook:
       after: |
         <li><a target="_blank" href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
     edit: https://github.com/felixgrunberger/nanopore_bookdown/blob/master/%s 
-    download: ["pdf", "epub"]
+    download: no
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex

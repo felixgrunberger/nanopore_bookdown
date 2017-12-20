@@ -31,3 +31,42 @@ img <- readPNG("https://raw.githubusercontent.com/felixgrunberger/nanopore_bookd
 
 
 ## About the book {-}
+
+<!--chapter:end:index.Rmd-->
+
+
+# Setting up your Machine {#setup}
+
+Placeholder
+
+
+
+<!--chapter:end:01-setup.Rmd-->
+
+
+# An Introduction {#introduction}  
+
+Placeholder
+
+
+
+<!--chapter:end:02-introduction.Rmd-->
+
+
+# Date
+
+Placeholder
+
+
+
+<!--chapter:end:03-date.Rmd-->
+
+
+# References
+
+Placeholder
+
+
+
+<!--chapter:end:04-references.Rmd-->
+
