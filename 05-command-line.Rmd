@@ -1,0 +1,45 @@
+# The Command Line {#command-line}  
+Most of the text is based on the <a target="blank" href="https://www.codecademy.com/learn/learn-the-command-line">codecademy</a> tutorial.
+How does your computer know what to do next? Right, you tell him by clicking images of icons, opening files, folders, executing programs, etc. 
+But that´s only one way for us communicate with computers. The command line is a text-based interface developers use to more effectively and efficiently tell computers what to do. 
+
+Do not be afraid to play around in your system.
+
+## Accessing the command line  
+You can easily ac  
+
+## Navigating through your system    
+`pwd`   shows you the name of current working directory  
+`ls`    lists all files and directories in current working directory  
+`cd`    change directory to..?  
+`mkdir` creates a new directory in the current working directory  
+`touch` create a new file in the current working directory  
+
+## Viewing and changing the file system  
+> cp  
+
+copy files  
+<br>  
+
+> mv  
+
+move and rename files  
+<br>  
+
+> rm  
+
+remove files  
+<br>  
+
+> rm -r  
+
+remove directories  
+
+
+## Redirecting Input and Output  
+_Redirection_ is usefull to redirect standard output of a command to a file.  
+
+## Configuring the environment  
+
+## Installation of programs  
+

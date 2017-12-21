@@ -1,0 +1,26 @@
+# Nanopore Sequencing with the MinION from ONT {#minion}  
+
+## Introduction to the Oxford Nanopore MinION sequencing technology  
+
+## Review of software  
+
+## Base calling and live statistics
+
+## Browsing file content
+
+## Extraction of FASTQ/A data
+
+## Extraction and analysis of events data
+
+## Gathering and visualization of run statistics (poRe/Poretools)  
+
+## Error correction and quality control (Nanocorr, NanoOK)  
+
+## Alignment of reads (Last, BWA, R)  
+
+## Event alignment (Nanopolish)  
+
+## Scaffolding of short reads (SSPACE-LongRead)  
+
+## Hybrid de novo assembly (SPAdes)  
+
